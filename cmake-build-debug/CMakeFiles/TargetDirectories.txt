@@ -1,0 +1,3 @@
+C:/Users/theal/Desktop/ITMO/oper_sys/lab/cmake-build-debug/CMakeFiles/lab.dir
+C:/Users/theal/Desktop/ITMO/oper_sys/lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/theal/Desktop/ITMO/oper_sys/lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
